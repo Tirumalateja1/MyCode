@@ -17,9 +17,7 @@ It's an E-Commerce website clone which sells wellness and fitness needs.
 
 ## Team Members
 
-- **[Ramdas Hedgapure](https://github.com/hramdas)**
-- **[Pooja Sankhala](https://github.com/Pooja9783)**
-- **[Antony Chacko](https://github.com/tonyPooyappallil)**
+- **[TirumalaTeja Kandregula](https://github.com/Tirumalateja1)**
 
 ## Pages and Features
 
